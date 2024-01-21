@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Oct 03 05:32:32 ICT 2023
-netty-codec-http-4.1.96.Final.jar>central=
+#Sun Jan 21 23:12:50 ICT 2024
 netty-codec-http-4.1.96.Final.pom>central=
+netty-codec-http-4.1.96.Final.jar>central=
+netty-codec-http-4.1.96.Final-javadoc.jar>central=
+netty-codec-http-4.1.96.Final-sources.jar>central=

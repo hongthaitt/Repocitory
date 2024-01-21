@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Oct 03 05:32:33 ICT 2023
+#Sun Jan 21 23:12:46 ICT 2024
 xmlsec-2.2.1.pom>central=
+xmlsec-2.2.1-sources.jar>central=
 xmlsec-2.2.1.jar>central=
+xmlsec-2.2.1-javadoc.jar>central=

@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Oct 03 05:32:33 ICT 2023
-dec-0.1.2.jar>central=
+#Sun Jan 21 23:12:51 ICT 2024
 dec-0.1.2.pom>central=
+dec-0.1.2-sources.jar>central=
+dec-0.1.2-javadoc.jar>central=
+dec-0.1.2.jar>central=

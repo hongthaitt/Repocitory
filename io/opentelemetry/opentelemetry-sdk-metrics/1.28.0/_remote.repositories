@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Oct 03 05:32:33 ICT 2023
-opentelemetry-sdk-metrics-1.28.0.pom>central=
+#Sun Jan 21 23:12:41 ICT 2024
 opentelemetry-sdk-metrics-1.28.0.jar>central=
+opentelemetry-sdk-metrics-1.28.0.pom>central=
+opentelemetry-sdk-metrics-1.28.0-javadoc.jar>central=
+opentelemetry-sdk-metrics-1.28.0-sources.jar>central=

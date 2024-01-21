@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Nov 20 22:22:58 ICT 2023
-datafaker-1.9.0.jar>central=
+#Sun Jan 21 23:12:12 ICT 2024
+datafaker-1.9.0-sources.jar>central=
 datafaker-1.9.0.pom>central=
+datafaker-1.9.0-javadoc.jar>central=
+datafaker-1.9.0.jar>central=

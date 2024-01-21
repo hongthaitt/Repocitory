@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Oct 03 05:48:06 ICT 2023
-allure-java-commons-2.21.0.jar>central=
+#Sun Jan 21 23:10:34 ICT 2024
 allure-java-commons-2.21.0.pom>central=
+allure-java-commons-2.21.0-sources.jar>central=
+allure-java-commons-2.21.0.jar>central=
+allure-java-commons-2.21.0-javadoc.jar>central=

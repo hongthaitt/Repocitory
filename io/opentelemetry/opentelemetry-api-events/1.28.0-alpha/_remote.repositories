@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Oct 03 05:32:33 ICT 2023
-opentelemetry-api-events-1.28.0-alpha.jar>central=
+#Sun Jan 21 23:10:34 ICT 2024
+opentelemetry-api-events-1.28.0-alpha-javadoc.jar>central=
 opentelemetry-api-events-1.28.0-alpha.pom>central=
+opentelemetry-api-events-1.28.0-alpha.jar>central=
+opentelemetry-api-events-1.28.0-alpha-sources.jar>central=

@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Oct 03 05:32:33 ICT 2023
-lombok-1.18.26.jar>central=
+#Sun Jan 21 23:10:21 ICT 2024
 lombok-1.18.26.pom>central=
+lombok-1.18.26-sources.jar>central=
+lombok-1.18.26-javadoc.jar>central=
+lombok-1.18.26.jar>central=

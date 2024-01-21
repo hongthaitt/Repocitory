@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Oct 03 05:32:33 ICT 2023
+#Sun Jan 21 23:10:49 ICT 2024
 batik-i18n-1.13.jar>central=
+batik-i18n-1.13-sources.jar>central=
 batik-i18n-1.13.pom>central=
+batik-i18n-1.13-javadoc.jar>central=
